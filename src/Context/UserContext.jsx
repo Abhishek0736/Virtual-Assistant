@@ -11,7 +11,7 @@ function UserContext({ children }) {
     text_speak.volume = 1;
     text_speak.rate = 1;
     text_speak.pitch = 1;
-    text_speak.lang = "hi-MB"
+    text_speak.lang = "hi-GB"
     window.speechSynthesis.speak(text_speak)
   }
   async function aiResponse(prompt) {
