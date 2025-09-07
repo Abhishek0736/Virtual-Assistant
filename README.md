@@ -1,6 +1,7 @@
 # NovaSpeak
 
 NovaSpeak is a virtual assistant application built using **React.js**. This project aims to provide an interactive and intelligent assistant that can help users with various tasks and queries.
+ **Host in Netlify**  https://novavirtualassistant.netlify.app/
 
 ## Features
 
